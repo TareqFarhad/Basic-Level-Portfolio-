@@ -1,0 +1,23 @@
+body{
+    font-family: 'Roboto Slab', serif;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+}
+.orange-color{
+    color: orange;
+
+}
+section{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 3%;
+}
+.half-width img{
+    width: 70%;
+}
